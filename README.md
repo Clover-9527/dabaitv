@@ -4,7 +4,7 @@ Java Web课程设计，基于servlet+jsp+ajax+mysql做的影视管理系统
 
 
 # 界面截图
-![image1](https://s1.yesimg.com/2023/03/16/88e8104d549db.png)
+![image1](https://s1.yesimg.com/2023/03/16/544a218759722.png)
 ![image2](https://s1.yesimg.com/2023/03/16/a640e1608436d.png)
 ![image3](https://s1.yesimg.com/2023/03/16/74e752505a075.png)
 
