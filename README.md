@@ -12,13 +12,13 @@ Tomcat  9.0	JDK 1.8	MySQL 8.0
 
 
 # 界面截图
+![image1](https://p0.meituan.net/csc/b61bfce11fc02193bcecfa3d5a177c8015142494.png)
+![image2](https://github.com/Clover-9527/dabaitv/assets/113291924/2300ed19-3313-47a4-b64a-94a9a9541d47)
 
-![image1](https://p0.meituan.net/csc/b61bfce11fc02193bcecfa3d5a177c8015142494.png)
-![image2]([https://s1.yesimg.com/2023/03/16/a640e1608436d.png](https://p0.meituan.net/csc/bf1e1751ee748eb82e7c4423f456db21911029.png))
-![image1]([https://p0.meituan.net/csc/b61bfce11fc02193bcecfa3d5a177c8015142494.png](https://p0.meituan.net/csc/dd94e0e08837a6af23d2baf2260bf9da866410.png))
-![image1](https://p0.meituan.net/csc/b61bfce11fc02193bcecfa3d5a177c8015142494.png)
+![image3](https://github.com/Clover-9527/dabaitv/assets/113291924/533dac44-c3ec-400b-a35b-064e917a66a8)
+
+
 
 
 # E-R图
-
-![image6]([https://s1.yesimg.com/2023/03/16/7cce75cb2929b.png](https://p1.meituan.net/csc/c10cd6b43b8e89692581de642e38050b39388.png))
+![image4](https://github.com/Clover-9527/dabaitv/assets/113291924/bf8c2862-854b-4f06-b400-6eac7457a2d3)
